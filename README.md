@@ -1,11 +1,13 @@
-````markdown
 # 🖥️ Hardware Classifier
 
-A deep learning-based image classification project that identifies different computer hardware components from images using **TensorFlow/Keras**.
+A deep learning-based image classification project that identifies 
+different computer hardware components from images using **TensorFlow/Keras**.
 
 ## 📌 Project Overview
 
-The goal of this project is to build a computer vision model capable of recognizing various computer hardware components from images. It demonstrates the practical application of deep learning for image classification.
+The goal of this project is to build a computer vision model capable of recognizing
+various computer hardware components from images. It demonstrates the practical application
+of deep learning for image classification.
 
 The model can classify the following hardware components:
 
@@ -19,7 +21,8 @@ The model can classify the following hardware components:
 
 ## 📂 Dataset
 
-The project uses multiple datasets, each organized into folders containing images for different hardware categories.
+The project uses multiple datasets, each organized into folders
+containing images for different hardware categories.
 
 Datasets included:
 
@@ -75,7 +78,6 @@ Hardware-Classifier/
 │── demo.mp4
 │── prediction.py
 │── README.md
-````
 
 ---
 
