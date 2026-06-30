@@ -9,11 +9,11 @@ The goal of this project is to build a computer vision model capable of recogniz
 
 The model can classify the following hardware components:
 
--  GPU
--  Hard Disk
--  Motherboard
--  Processor
--  RAM
+- GPU
+- Hard Disk
+- Motherboard
+- Processor
+- RAM
 
 ---
 
