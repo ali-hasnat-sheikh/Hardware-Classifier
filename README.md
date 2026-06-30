@@ -50,7 +50,8 @@ Each version represents an improved iteration of the hardware classifier.
 
 - Image-based hardware classification
 - Multiple hardware categories
-- Pre-trained Keras models included
+- Pre-trained Keras models included (v1, v2, v3)
+- Detailed Jupyter notebook documentation of the model creation process
 - Demo video for project presentation
 
 ---
@@ -62,6 +63,19 @@ Each version represents an improved iteration of the hardware classifier.
 - Keras
 - Computer Vision
 - Image Classification
+
+---
+
+## 📓 Documentation
+
+This project includes detailed Jupyter notebook files that document the entire model creation and training process, including:
+
+- Data exploration and preprocessing
+- Model architecture design
+- Training methodology
+- Results and performance analysis
+
+You can review these notebooks to understand how each model version was developed and optimized.
 
 ---
 
