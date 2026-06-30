@@ -65,22 +65,6 @@ Each version represents an improved iteration of the hardware classifier.
 
 ---
 
-## 📁 Project Structure
-
-```text
-Hardware-Classifier/
-│── hardware_dataset/
-│── hardware_dataset2/
-│── hardware_dataset3/
-│── v1_hardware_model.keras
-│── v2_hardware_model.keras
-│── v3_hardware_model.keras
-│── demo.mp4
-│── prediction.py
-│── README.md
-
----
-
 ## 🧪 How to Test the Model
 
 Before testing, make sure the required Python libraries are installed in your environment, such as TensorFlow, NumPy, Matplotlib, and Pillow.
@@ -94,9 +78,7 @@ To test the model using the provided script:
    - `v3_hardware_model.keras`
 3. Run the script:
 
-```bash
 python prediction.py
-```
 
 4. When prompted, select an image file from your computer.
 5. The script will load the selected model version, predict the hardware class, and display the result.
@@ -109,5 +91,3 @@ This allows you to test the classifier using any of the available trained model 
 
 This project is intended for educational and learning purposes.
 
-```
-```
